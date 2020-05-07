@@ -6,3 +6,4 @@
   - [lua_gettop](lua_gettop.md)
   - [lua_State](lua_State.md)
   - [CallInfo](CallInfo.md)
+  - [union](union.md)
